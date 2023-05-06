@@ -1,3 +1,3 @@
 ### Hi there 👋
-[AlertDialog] - (https://github.com/amv0107/AlertDialog)
+[AlertDialog](https://github.com/amv0107/AlertDialog)
 
