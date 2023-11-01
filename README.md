@@ -3,12 +3,14 @@
 - **I'm currently open to work** :monocle_face:
 - I'm currently learning everything :man_student:
 ### My study cheat sheets :hammer_and_wrench:
-#### UI
-* [AlertDialog](https://github.com/amv0107/CustomAlertDialog)
-* [ButtomNavigationWithFab](https://github.com/amv0107/DemoButtomNavigationWithFab)
-* [BottomSheetDialogFragment](https://github.com/amv0107/BottomSheetDialogFragment)
-* [Notification](https://github.com/amv0107/Notifications)
-* [Permissions](https://github.com/amv0107/Notifications)
+| **UI** | **Tech Stack** |
+|---|---|
+| [AlertDialog](https://github.com/amv0107/CustomAlertDialog)                       | []() |
+| [ButtomNavigationWithFab](https://github.com/amv0107/DemoButtomNavigationWithFab) | []() | 
+| [BottomSheetDialogFragment](https://github.com/amv0107/BottomSheetDialogFragment) | []() |
+| [Notification](https://github.com/amv0107/Notifications)                          | []() |
+| [Permissions](https://github.com/amv0107/Notifications)                           | []() |
+
 
 ### Connect with me :phone:
 <p align="left">
