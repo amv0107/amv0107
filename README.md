@@ -5,11 +5,11 @@
 ### My study cheat sheets :hammer_and_wrench:
 | **UI** | **Tech Stack** |
 |---|---|
-| [AlertDialog](https://github.com/amv0107/CustomAlertDialog)                       | []() |
-| [ButtomNavigationWithFab](https://github.com/amv0107/DemoButtomNavigationWithFab) | []() | 
-| [BottomSheetDialogFragment](https://github.com/amv0107/BottomSheetDialogFragment) | []() |
-| [Notification](https://github.com/amv0107/Notifications)                          | []() |
-| [Permissions](https://github.com/amv0107/Notifications)                           | []() |
+| [AlertDialog](https://github.com/amv0107/CustomAlertDialog)                       | [Room]() |
+| [ButtomNavigationWithFab](https://github.com/amv0107/DemoButtomNavigationWithFab) | [Okhht]() | 
+| [BottomSheetDialogFragment](https://github.com/amv0107/BottomSheetDialogFragment) | [Retrofit]() |
+| [Notification](https://github.com/amv0107/Notifications)                          | [Firebase Auth]() |
+| [Permissions](https://github.com/amv0107/Notifications)                           | [Firebase RintimeDatabase]() |
 
 
 ### Connect with me :phone:
