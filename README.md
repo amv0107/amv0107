@@ -1,4 +1,5 @@
 ## Hi there, I'm Maksym 👋
+
 ## I'm a Husband, Father, Developer and good Friend
 - **I'm currently open to work** :monocle_face:
 - I'm currently learning everything :man_student:
@@ -34,3 +35,5 @@
 |OOP, SOLID          |SQLite, Room    |Kotlin Coroutines       |Firebase           |
 |Android SDK         |JSON, RestAPI   |HILT                    |Google Play Console|
 |Navigation Component|OkHttp, retrofit|Git, GitHub             |                   |
+
+![](https://komarev.com/ghpvc/?username=amv0107)
