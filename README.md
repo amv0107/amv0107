@@ -1,8 +1,10 @@
 ## Hi there, I'm Maksym 👋
 
-## I'm a Husband, Father, Developer and good Friend
+## I'm a Husband, Father, Android Developer and good Friend
 - **I'm currently open to work** :monocle_face:
 - I'm currently learning everything :man_student:
+
+[My CV](https://www.canva.com/design/DAFtwEK8L_I/ekiuOOkru4Cr3Y7wcFO8iw/view?utm_content=DAFtwEK8L_I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### My study cheat sheets :hammer_and_wrench:
 | **UI** | **Tech Stack** | **Android SDK** |
