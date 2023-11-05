@@ -9,7 +9,7 @@
 ### My study cheat sheets :hammer_and_wrench:
 | **UI** | **Tech Stack** | **Android SDK** |
 |---|---|---|
-| [AlertDialog!](https://github.com/amv0107/CustomAlertDialog)                       | [Permissions*](https://github.com/amv0107/WorkWithPermission) | [Location*]()      |
+| [AlertDialog!](https://github.com/amv0107/CustomAlertDialog)                       | [Permissions](https://github.com/amv0107/WorkWithPermission) | [Location*]()      |
 | [ButtomNavigationWithFab!](https://github.com/amv0107/DemoButtomNavigationWithFab) | [Room*]()                                                     | [Notifications*]() | 
 | [BottomSheetDialogFragment!](https://github.com/amv0107/BottomSheetDialogFragment) | [OkHttp*]()                                                   | [WorkManager*]()   |
 | [Notification!](https://github.com/amv0107/Notifications)                          | [Retrofit*]()                                                 | [Alarms*]()        |
