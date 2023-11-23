@@ -16,7 +16,7 @@
 | [DraweMenu*]()                                                                     | [Firebase Auth*]()                                            | [IPC*]()           |
 | [ToolBar*]()                                                                       | [Firebase RintimeDatabase*]()                                 | [Sensors*]()       |
 | [RecyclerView*]()                                                                  | [HILT*]()                                                     | [Sensors*]()       |
-| [Animation]()                                                                      | [SharedPreference*]()                                         | [Connectivity*]()  |
+| [Animation](https://github.com/amv0107/Anim)                                       | [SharedPreference*]()                                         | [Connectivity*]()  |
 | []()                                                                               | [Services*]()                                                 | [Camera*]()        |
 | []()                                                                               | [BroadcastReciver*]()                                         | [Bluetooth*]()     |
 | []()                                                                               | [ContentProvider*]()                                          | []()               |
